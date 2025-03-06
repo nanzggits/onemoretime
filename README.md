@@ -27,7 +27,7 @@ Each section contains a **practical exercise** to apply these security best prac
    - In the **Actions** tab, wait for the CodeQL setup to complete.  
 3. **Review vulnerabilities flagged by CodeQL**:  
    - Open the **Security** tab   
-   - 📝 **Note:** The **Security** tab is not in the main navigation bar. Click the **ellipsis menu (…)** in the top-right corner and select **Security**.  
+   - 📝 **Note:** If, the **Security** tab is not in the main navigation bar, click the **ellipsis menu (…)** in the top-right corner and select **Security**.  
    - Click on **Code scanning alerts** to view issues.  
 4. **Fix a detected vulnerability using Copilot Autofix**:  
    - Click on a detected vulnerability.  
@@ -50,7 +50,7 @@ Each section contains a **practical exercise** to apply these security best prac
 - Ensure that both **"Secret scanning"** and **"Push protection"** are enabled.  
 
 ##### **2. Commit a Secret Using the GitHub**  
-- Navigate to **`code.js`** and click the **pencil (✏️) edit button**.  
+- Navigate to **`config.js`** and click the **pencil (✏️) edit button**.  
 - Replace the placeholder values with an AWS secret:  
   ```javascript
   // 🚨 Hardcoded secret for testing GitHub Secret Scanning

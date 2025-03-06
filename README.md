@@ -51,12 +51,7 @@ Each section contains a **practical exercise** to apply these security best prac
 
 ##### **2. Commit a Secret Using the GitHub**  
 - Navigate to **`config.js`** and click the **pencil (✏️) edit button**.  
-- Replace the placeholder values with an AWS secret:  
-  ```javascript
-  // 🚨 Hardcoded secret for testing GitHub Secret Scanning
-  const AWS_ACCESS_KEY_ID = "AKIAIOSFODNN7EXAMPLP";  // Test AWS Key
-  const AWS_SECRET_ACCESS_KEY = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKTY"; // Test AWS Secret
-  ```
+- Replace the placeholder values with an [AWS secret](https://drive.google.com/file/d/1ZGOQD1YCvp_h2Qhak76fIoK_3kFLFyfi/view?usp=sharing). 
 - Scroll down, enter a commit message (e.g., **"Adding AWS keys to test push protection"**), and click **Commit changes**.  
 
 ##### **3. Observe GitHub’s Behavior**  

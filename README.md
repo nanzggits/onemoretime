@@ -26,7 +26,7 @@ Each section contains a **practical exercise** to apply these security best prac
    - Click **Enable CodeQL**.  
    - In the **Actions** tab, wait for the CodeQL setup to complete.  
 3. **Review vulnerabilities flagged by CodeQL**:  
-   - Open the **Security** tab **(Settings > Security > Code Security > Code Scanning)**.  
+   - Open the **Security** tab   
    - 📝 **Note:** The **Security** tab is not in the main navigation bar. Click the **ellipsis menu (…)** in the top-right corner and select **Security**.  
    - Click on **Code scanning alerts** to view issues.  
 4. **Fix a detected vulnerability using Copilot Autofix**:  

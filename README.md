@@ -27,7 +27,7 @@ Each section contains a **practical exercise** to apply these security best prac
    - In the **Actions** tab, wait for the CodeQL setup to complete.  
 3. **Review vulnerabilities flagged by CodeQL**:  
    - Open the **Security** tab   
-   - 📝 **Note:** If, the **Security** tab is not in the main navigation bar, click the **ellipsis menu (…)** in the top-right corner and select **Security**.  
+   - 📝 **Note:** If the **Security** tab is not in the main navigation bar, click the **ellipsis menu (…)** in the top-right corner and select **Security**.  
    - Click on **Code scanning alerts** to view issues.  
 4. **Fix a detected vulnerability using Copilot Autofix**:  
    - Click on a detected vulnerability.  
@@ -61,7 +61,7 @@ Each section contains a **practical exercise** to apply these security best prac
 
 ##### **4. View Secret Scanning Alerts**  
 - Go to **Security > Secret Scanning**.  
-- 📝 **Note:** The **Security** tab is under the **ellipsis menu (…)** in the top-right corner.
+- 📝 **Note:** If the **Security** tab is not in the main navigation bar, click the **ellipsis menu (…)** in the top-right corner and select **Security**.
 
 ##### **5. Respond to a Secret Scanning Alert**  
 - Locate the **alert for the committed secret**.  
@@ -87,7 +87,7 @@ Each section contains a **practical exercise** to apply these security best prac
 1. **Enable Dependabot**:  
    - Navigate to **Security > Dependabot Alerts**.  
    - Enable **Dependabot alerts** if not already active.  
-   - 📝 **Note:** The **Security** tab is under the **ellipsis menu (…)** in the top-right corner.  
+   - 📝 **Note:** If the **Security** tab is not in the main navigation bar, click the **ellipsis menu (…)** in the top-right corner and select **Security**.
 2. **Check for dependency alerts**:  
    - Go to **Security > Dependabot Alerts**.  
 3. **Apply Dependabot's suggested fixes**:  
